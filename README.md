@@ -3,7 +3,7 @@ This source code includes a music stream service app, that mainly focus on Linke
 
 Ceng213 - Data Structures
 Programming Assignment 1
-A Simple Music Streaming Service Implementation via Linked Listsw
+A Simple Music Streaming Service Implementation via Linked Lists
 
 The music streaming service in this assignment is implemented as the class MusicStream. MusicStream class has four
 LinkedList objects in its private data field (namely profiles, artists, albums and songs) with the types Profile,
